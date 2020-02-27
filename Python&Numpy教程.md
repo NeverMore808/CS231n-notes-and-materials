@@ -1,6 +1,6 @@
 # Python Numpy教程
 
-这篇教程由Justin Johnson创作，这里将原版教程进行了翻译和整理。
+原版英文教程由Justin Johnson创作，这里将原版教程进行了翻译和整理。
 
 
 
